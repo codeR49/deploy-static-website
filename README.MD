@@ -1,16 +1,18 @@
-Deploy Static Website on AWS
+# Deploy Static Website on AWS
 
-In this project, we will deploy a static website to AWS using S3, CloudFront, and IAM.
+<h2>Project Overview</h2>
 
-The files included are: 
+<p>In this project, we will deploy a static website to AWS using S3, CloudFront, and IAM.</p>
 
-index.html - The Index document for the website.
-/img - The background image file for the website.
-/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
-/css - CSS files for the website.
+<p>The files included are:</p> 
 
-Other folders not in cloud
-/screenshots
+<h3>index.html - The Index document for the website.</h3>
+<h3>/img - The background image file for the website.</h3>
+<h3>/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.</h3>
+<h3>/css - CSS files for the website.</h3>
+
+<h3>Other folders not in cloud</h3>
+<h3>/screenshots</h3>
 
 1. The S3 bucket is created.
 links to img: screenshots\s3-bucket-created.JPG
